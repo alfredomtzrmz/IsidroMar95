@@ -1,7 +1,7 @@
 # Hello, folks
 sometimes i code things
 
-- 👨🏾‍💻 working as Senior FrontEnd Developer @ [apithy](https://www.apithy.com/)
+- 👨🏾‍💻 working as Senior FrontEnd Developer @ [devsalsa](https://devsalsa.com/)
 - 💪🏾 project coordinator and mentor @ [FutureLab](https://futurelab.mx/)
 - ⚡ javascript evangelist
 - 💚 in love with Vue - TailwindCSS
